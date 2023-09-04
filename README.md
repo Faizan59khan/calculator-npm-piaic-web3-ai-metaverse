@@ -11,8 +11,8 @@ npm install @muhammadfaizan59/calculator
 Usage
 To use the calculator functions in your TypeScript or JavaScript project, import them as follows:
 
-javascript
-Copy code
+
+
 const { add, sub, div, mul } = require('@muhammadfaizan59/calculator');
 
 console.log(add(5, 3));      // Use the 'add' function
@@ -27,8 +27,8 @@ mul(a: number, b: number): number - Multiplies two numbers.
 Examples
 Here are some examples of how to use the calculator functions:
 
-javascript
-Copy code
+
+
 const { add, sub, div, mul } = require('@muhammadfaizan59/calculator');
 
 console.log(add(5, 3));      // 8
