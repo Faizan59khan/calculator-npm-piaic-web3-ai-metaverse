@@ -1,0 +1,30 @@
+{
+	"name": "@muhammadfaizan59/calculator",
+	"version": "1.0.0",
+	"description": "A simple calculator library in TypeScript",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"prepare": "tsc",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"calculator",
+		"math",
+		"typescript"
+	],
+	"author": "Muhammad Faizan",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Faizan59khan/calculator-npm-piaic-web3-ai-metaverse.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Faizan59khan/calculator-npm-piaic-web3-ai-metaverse/issues"
+	},
+	"homepage": "https://github.com/Faizan59khan/calculator-npm-piaic-web3-ai-metaverse#readme",
+	"dependencies": {},
+	"devDependencies": {
+		"typescript": "^4.0.0"
+	}
+}

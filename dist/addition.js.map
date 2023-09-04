@@ -1,0 +1,1 @@
+{"version":3,"file":"addition.js","sourceRoot":"","sources":["../src/addition.ts"],"names":[],"mappings":";;;AAAA,SAAgB,GAAG,CAAC,CAAS,EAAE,CAAS;IACvC,IAAI,OAAO,CAAC,KAAK,QAAQ,IAAI,OAAO,CAAC,KAAK,QAAQ,EAAE;QACnD,MAAM,IAAI,KAAK,CAAC,iCAAiC,CAAC,CAAC;KACnD;IACD,OAAO,CAAC,GAAG,CAAC,CAAC;AACd,CAAC;AALD,kBAKC"}
